@@ -1,10 +1,10 @@
 # Academy
 
-- Biluthyrning, en lite längre uppgift i flera delar: https://docs.google.com/document/d/1eFpyY4iqMNHbhh2b18jlA8XztrJHyVObgKA_YFrYZm8/edit#heading=h.mobaw4noep7x
+Om du inte har ett eget projekt att göra så kan du kolla på denna, en lite längre uppgift i flera delar: https://docs.google.com/document/d/1eFpyY4iqMNHbhh2b18jlA8XztrJHyVObgKA_YFrYZm8/edit#heading=h.mobaw4noep7x
 
 
 # Bra saker att lära sig
-Här finns det samlat lite grejer som jag tycker är bra att kunna. Dessa grejer är inget man lär sig på 20 minuter utan kräver lite mer arbete. Det mesta är kurser på Coursera, där kan man gå kurserna gratis sålänge man inte vill få ett certifikat i slutet av avklarad kurs. Tyvärr så använder sig kurserna av ett specifikt programmeringsspråk men ämnena är generella och användbara oavsett språk.
+Här finns det samlat lite saker som jag tycker är bra att kunna. Om du känner att du har koll på grunderna i programmering så finns här bra nästa steg. Dessa ämnen är inget man lär sig på 20 minuter utan kräver lite mer arbete. Det mesta är kurser på Coursera, där kan man gå kurserna gratis sålänge man inte vill få ett certifikat i slutet av avklarad kurs. Det kan vara så att kurserna inte använder sig av just det programmeringsspråket du har lärt dig men om du känner dig trygg med programmering så borde det gå ändå, det som lärs ut här är lika relevant oavsett språk.
 
 ### Designmönster
 Designmönster är ett sätt att lösa vanliga problem inom programmering. Att ha koll på dom vanligaste är i princip ett måste för att bli en senior utvecklare.
