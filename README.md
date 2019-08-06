@@ -1,6 +1,5 @@
 # Academy
 
-# Uppgifter
 - Biluthyrning, en lite längre uppgift i flera delar: https://docs.google.com/document/d/1eFpyY4iqMNHbhh2b18jlA8XztrJHyVObgKA_YFrYZm8/edit#heading=h.mobaw4noep7x
 
 
@@ -20,7 +19,7 @@ https://www.coursera.org/learn/data-structures
 När kodbaser växer så måste man också börja tänka på arkitekturen, hur ska all kod organiseras för att kunna interagera på ett sätt som gör det lätt att hålla koll och göra ändringar? Systemarkitektur är nästa nivå, efter att man har koll på hur man skriver snygga klasser och metoder.
 https://www.coursera.org/learn/software-architecture
 
-## Jag vill göra ett spel
+# Jag vill göra ett spel
 Jag skulle avråda dig från att använda Unity. Unity är ett väldigt bra verktyg för att göra spel men om man huvudsakligen vill lära sig programmering så skulle jag rekommendera något ramverk som inte ger dig lika mycket hjälp. Det kommer ta längre tid att göra ett spel men du kommer att lära dig mer. Förslag på ramverk:
 
 ### C# 
