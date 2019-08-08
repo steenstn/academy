@@ -8,6 +8,7 @@ Här finns det samlat lite saker som jag tycker är bra att kunna. Om du känner
 
 ### Designmönster
 Designmönster är ett sätt att lösa vanliga problem inom programmering. Att ha koll på dom vanligaste är i princip ett måste för att bli en senior utvecklare.
+
 https://refactoring.guru/design-patterns
 
 https://www.coursera.org/learn/design-patterns
