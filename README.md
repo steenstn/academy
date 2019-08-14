@@ -2,6 +2,9 @@
 
 Om du inte har ett eget projekt att göra så kan du kolla på denna, en lite längre uppgift i flera delar: https://docs.google.com/document/d/1eFpyY4iqMNHbhh2b18jlA8XztrJHyVObgKA_YFrYZm8/edit#heading=h.mobaw4noep7x
 
+# Gratisresurser
+https://www.codecademy.com
+https://www.coursera.org
 
 # Bra saker att lära sig
 Här finns det samlat lite saker som jag tycker är bra att kunna. Om du känner att du har koll på grunderna i programmering så finns här bra nästa steg. Dessa ämnen är inget man lär sig på 20 minuter utan kräver lite mer arbete. Det mesta är kurser på Coursera, där kan man gå kurserna gratis sålänge man inte vill få ett certifikat i slutet av avklarad kurs. Det kan vara så att kurserna inte använder sig av just det programmeringsspråket du har lärt dig men om du känner dig trygg med programmering så borde det gå ändå, det som lärs ut här är lika relevant oavsett språk.
@@ -36,3 +39,29 @@ Ett exempel på vad man kan göra är mitt spel här som är gjort i ren Javascr
 LibGDX (https://libgdx.badlogicgames.com/)
 
 När din spelkod börjar växa så är det bra att ta en titt på https://gameprogrammingpatterns.com/ för att lära dig sätt att strukturera din kod bättre
+
+
+# Boktips
+Det kan kännas onödigt och lite väl old-school att läsa en bok om programmering när man kan googla sig till svaret på alla frågor man kan tänkas ha. Men bra programmeringsböcker kommer introducera dig till koncept du aldrig tänkt på och därmed inte skulle kunna komma på att googla. Böcker har också fördelen att dom är ofta skrivna av experter inom området och har reviderats och finslipats några gånger, till skillnad från en artikel på Medium skriven av någon random dude. Så här kommer en lista på böcker jag antingen läst själv eller hört bra saker om. Listan blandar både språkspecifika böcker och allmäna.
+
+### Clean Code
+Den här känner ni antagligen till och det finns en anledning för det. Hur man skriver ren och snygg kod. Rekommenderas för alla och kommer ge många "Aha"-upplevelser
+
+### Code Complete 2nd Edition
+Går igenom typ allt inom programmering. Hur man ska döpa metoder, strukturera klasser, skriva test, refaktorera, debugga osv.
+
+### Effective Java 3rd Edition
+Om du jobbar med Java så kommer den boken att ge dig tips och kunskap om hur just Java beter sig så att du kan skriva bättre Javakod.
+
+### Eloquent JavaScript 3rd Edition
+För dig som vill fördjupa dina kunskaper inom Javascript. Hela boken finns online här: http://eloquentjavascript.net/
+
+### Design patterns (av Erich Gamma, Richard Helm och Ralph Johnson)
+Anses av många vara den definitiva boken om designmönster. Jag hade den som kurslitteratur i en kurs om designmönster på universitetet och även om den går igenom typ allt så kan den kännas lite väl torr ibland.
+
+### Headfirst design patterns
+Den här boken är inte torr. Författaren försöker skoja till saker och vara rolig till en nivå som får en att himla med ögonen istället. Informationen är dock bra och du kommer lära dig designmönster av denna bok också om du står ut med den klämkäcka texten.
+
+### C# in Depth 4th Edition
+Om du vill gå next level i dina C#-kunskaper. Ej för dig som är ny till C# utan som redan har koll på språket men vill gå på djupet.
+
