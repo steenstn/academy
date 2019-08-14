@@ -14,6 +14,7 @@ Om du inte har ett eget projekt att göra så kan du kolla på denna, en lite l�
 
 # Gratisresurser
 https://www.codecademy.com
+
 https://www.coursera.org
 
 # Bra saker att lära sig
