@@ -4,8 +4,11 @@
 Ditt mål som tillgänglig konsult är ju att minska tiden som tillgänglig konsult. Som tillgänglig konsult har du också tid att djupdyka mer i områden som du känner att du inte hade tid att lära dig ordentligt under Academy. Förslag på upplägg:
 
 Vecka 1 - Repetition Academy v1-4
+
 Vecka 2 - Repetition Academy v5-8
+
 Vecka 3 - Repetition Academy v9-10 och därefter start/fortsättning eget projekt och/eller nya kurser.
+
 
 Om du inte har ett eget projekt att göra så kan du kolla på denna, en lite längre uppgift i flera delar: https://docs.google.com/document/d/1eFpyY4iqMNHbhh2b18jlA8XztrJHyVObgKA_YFrYZm8/edit#heading=h.mobaw4noep7x
 
