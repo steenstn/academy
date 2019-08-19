@@ -68,7 +68,7 @@ Om du jobbar med Java så kommer den boken att ge dig tips och kunskap om hur ju
 För dig som vill fördjupa dina kunskaper inom Javascript. Hela boken finns online här: http://eloquentjavascript.net/
 
 ### Design patterns (av Erich Gamma, Richard Helm och Ralph Johnson)
-Anses av många vara den definitiva boken om designmönster. Jag hade den som kurslitteratur i en kurs om designmönster på universitetet och även om den går igenom typ allt så kan den kännas lite väl torr ibland.
+Anses av många vara den definitiva boken om designmönster. Jag hade den som kurslitteratur i en kurs om designmönster på universitetet och kan intyga att även om den går igenom typ allt så kan den kännas lite väl torr ibland.
 
 ### Headfirst design patterns
 Den här boken är inte torr. Författaren försöker skoja till saker och vara rolig till en nivå som får en att himla med ögonen istället. Informationen är dock bra och du kommer lära dig designmönster av denna bok också om du står ut med den klämkäcka texten.
