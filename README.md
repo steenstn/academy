@@ -9,6 +9,8 @@ Vecka 2 - Repetition Academy v5-8
 
 Vecka 3 - Repetition Academy v9-10 och därefter start/fortsättning eget projekt och/eller nya kurser.
 
+Eftersom ni har tillgång till all kursmaterial från Academy så rekommenderar jag updelningen ovan och att du läser på det som kanske inte riktigt fastnat för att se till att det verkligen sitter och att du förstår.
+
 
 Om du inte har ett eget projekt att göra så kan du kolla på denna, en lite längre uppgift i flera delar: https://docs.google.com/document/d/1eFpyY4iqMNHbhh2b18jlA8XztrJHyVObgKA_YFrYZm8/edit#heading=h.mobaw4noep7x
 
