@@ -19,6 +19,15 @@ https://www.codecademy.com
 
 https://www.coursera.org
 
+# Programmeringsutmaningar
+Länkar till några sidor som har uppgifter att lösa. Dessa brukar vara bra för att träna på att få ihop algoritmer och logiken i sin kod. Lös uppgifterna själva eller i grupp.
+
+https://open.kattis.com/ - Många av dessa uppgifter är rätt så mattefokuserade så dom speglar inte det vardagliga programmerarlivet jättebra. Finns såklart bra uppgifter men det är lätt hänt att man fastnar på matten och formler istället för programmeringen. Deras poängsystem gör också att svårighetsgraden trycks ner. Så det som står som "Easy" kan vara rätt svårt och ta en dag eller två att lösa.
+
+https://adventofcode.com/ - Programmeringsuppgifter i stigande svårighetsgrad. Kommer ut varje år i december och har oftast jultema men går såklart att göra när som helst.
+
+https://www.codewars.com/ - Uppgifter som är lite mer programmeringsinriktade än matteinriktade.
+
 # Bra saker att lära sig
 Här finns det samlat lite saker som jag tycker är bra att kunna. Om du känner att du har koll på grunderna i programmering så finns här bra nästa steg. Dessa ämnen är inget man lär sig på 20 minuter utan kräver lite mer arbete. Det mesta är kurser på Coursera, där kan man gå kurserna gratis sålänge man inte vill få ett certifikat i slutet av avklarad kurs. Det kan vara så att kurserna inte använder sig av just det programmeringsspråket du har lärt dig men om du känner dig trygg med programmering så borde det gå ändå, det som lärs ut här är lika relevant oavsett språk.
 
