@@ -66,24 +66,24 @@ När din spelkod börjar växa så är det bra att ta en titt på https://gamepr
 # Boktips
 Det kan kännas onödigt och lite väl old-school att läsa en bok om programmering när man kan googla sig till svaret på alla frågor man kan tänkas ha. Men bra programmeringsböcker kommer introducera dig till koncept du aldrig tänkt på och därmed inte skulle kunna komma på att googla. Böcker har också fördelen att dom är ofta skrivna av experter inom området och har reviderats och finslipats några gånger, till skillnad från en artikel på Medium skriven av någon random dude. Så här kommer en lista på böcker jag antingen läst själv eller hört bra saker om. Listan blandar både språkspecifika böcker och allmäna.
 
-### Clean Code
+### Clean Code (Alla språk)
 Den här känner ni antagligen till och det finns en anledning för det. Hur man skriver ren och snygg kod. Rekommenderas för alla och kommer ge många "Aha"-upplevelser
 
-### Code Complete 2nd Edition
+### Code Complete 2nd Edition (Alla språk)
 Går igenom typ allt inom programmering. Hur man ska döpa metoder, strukturera klasser, skriva test, refaktorera, debugga osv.
 
-### Effective Java 3rd Edition
+### Effective Java 3rd Edition (Java)
 Om du jobbar med Java så kommer den boken att ge dig tips och kunskap om hur just Java beter sig så att du kan skriva bättre Javakod.
 
-### Eloquent JavaScript 3rd Edition
+### Eloquent JavaScript 3rd Edition (JavaScript)
 För dig som vill fördjupa dina kunskaper inom Javascript. Hela boken finns online här: http://eloquentjavascript.net/
 
-### Design patterns (av Erich Gamma, Richard Helm och Ralph Johnson)
+### Design patterns (av Erich Gamma, Richard Helm och Ralph Johnson) (Alla språk)
 Anses av många vara den definitiva boken om designmönster. Jag hade den som kurslitteratur i en kurs om designmönster på universitetet och kan intyga att även om den går igenom typ allt så kan den kännas lite väl torr ibland.
 
-### Headfirst design patterns
+### Headfirst design patterns (Alla språk)
 Den här boken är inte torr. Författaren försöker skoja till saker och vara rolig till en nivå som får en att himla med ögonen istället. Informationen är dock bra och du kommer lära dig designmönster av denna bok också om du står ut med den klämkäcka texten.
 
-### C# in Depth 4th Edition
+### C# in Depth 4th Edition (C#)
 Om du vill gå next level i dina C#-kunskaper. Ej för dig som är ny till C# utan som redan har koll på språket men vill gå på djupet.
 
